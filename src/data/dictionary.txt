@@ -1,0 +1,9 @@
+apple 100
+application 90
+apply 85
+apartment 50
+ape 30
+boy 70
+book 95
+bold 40
+banana 60
